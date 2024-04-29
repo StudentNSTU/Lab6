@@ -4,7 +4,7 @@
 
 Построить РВ, описывающее американские почтовые индексы.
 
-\d{5}(-\d{4})?
+\d{5}?
 
 <img width="668" alt="скрин№1" src="https://github.com/StudentNSTU/Lab6/assets/160150922/f9c60b5c-d851-4e8d-b067-ee2dfce3fc65">
 <img width="666" alt="скрин№2" src="https://github.com/StudentNSTU/Lab6/assets/160150922/12ea871c-3749-412c-9265-f852b520039a">
